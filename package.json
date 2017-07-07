@@ -1,0 +1,29 @@
+{
+  "name": "tutorial-adaptivecards",
+  "version": "1.0.0",
+  "description": "Repository for my YouTube tutorial video series on Adaptive Cards",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szul/tutorial-adaptivecards.git"
+  },
+  "keywords": [
+    "typescript",
+    "adaptivecards",
+    "nodejs"
+  ],
+  "author": "Michael Szul <michael@szul.us>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/szul/tutorial-adaptivecards/issues"
+  },
+  "homepage": "https://github.com/szul/tutorial-adaptivecards#readme",
+  "dependencies": {
+    "microsoft-adaptivecards": "^0.6.0",
+    "milligram": "^1.3.0",
+    "typescript": "^2.4.1"
+  }
+}
