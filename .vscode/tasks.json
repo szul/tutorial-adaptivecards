@@ -1,0 +1,16 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "taskName": "TypeScript",
+            "problemMatcher": "$tsc",
+            "command": "tsc",
+            "args": ["-p", "."],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "type": "shell"
+        }
+    ]
+}
